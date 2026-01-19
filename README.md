@@ -1,10 +1,10 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://your-banner-image-link-here.png" alt="Mahesh Kotkar Banner" />
+  <img src="./banner.png" alt="Mahesh Kotkar Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mahesh Kotkar</h1>
-<h3 align="center">Aspiring Software Engineer | Java Developer | ML & Full Stack Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer | Java Developer | Full Stack Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahesh-kotkar-50537732a/" target="_blank">
