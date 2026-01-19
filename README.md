@@ -1,8 +1,12 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="./banner.png" alt="Mahesh Kotkar Banner" />
+<p align="center" style="margin-top:0; margin-bottom:0;">
+  <img 
+    src="./banner.png" 
+    alt="Mahesh Kotkar Banner"
+    style="display:block; margin:0 auto; padding:0;"
+  />
 </p>
-<hr style="margin-top:0; margin-bottom:0;">
+
 
 
 <h1 align="center">Hi 👋, I'm Mahesh Kotkar</h1>
