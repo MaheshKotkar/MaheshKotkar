@@ -16,7 +16,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/MaheshKotkar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="48"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/MaheshKotkar" target="_blank">
