@@ -7,19 +7,23 @@
 <h3 align="center">Aspiring Software Engineer | Java Developer | Full Stack Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahesh-kotkar-50537732a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  &nbsp;&nbsp;
   <a href="maheshkotkar2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://leetcode.com/u/MaheshKotkar/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/MaheshKotkar/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
-  <a href="https://github.com/MaheshKotkar">
-    <img src="https://img.shields.io/github/followers/MaheshKotkar?label=Follow&style=for-the-badge"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MaheshKotkar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
+
 
 ---
 
@@ -47,12 +51,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,ts,tailwind,bootstrap" />
 </p>
 
-
-### 🧠 Data Science & ML
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,opencv" />
-</p>
 
 
 ### 🗄️ Databases & Tools
