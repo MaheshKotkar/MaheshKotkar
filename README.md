@@ -86,7 +86,7 @@
 
 - 📧 Email: **maheshkotkar2005@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/mahesh-kotkar-50537732a/**
-- 💻 GitHub: **github.com/MaheshKotkar**
+- 💻 GitHub: **https://github.com/MaheshKotkar**
 
 ---
 
