@@ -7,13 +7,13 @@
 <h3 align="center">Aspiring Software Engineer | Java Developer | ML & Full Stack Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/mahesh-kotkar-50537732a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="maheshkotkar2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/your-id/">
+  <a href="https://leetcode.com/u/MaheshKotkar/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://github.com/MaheshKotkar">
@@ -76,8 +76,8 @@
 
 ## 📫 How to Reach Me
 
-- 📧 Email: **your-email@gmail.com**
-- 💼 LinkedIn: **linkedin.com/in/your-linkedin**
+- 📧 Email: **maheshkotkar2005@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/mahesh-kotkar-50537732a/**
 - 💻 GitHub: **github.com/MaheshKotkar**
 
 ---
