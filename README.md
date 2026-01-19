@@ -2,6 +2,8 @@
 <p align="center">
   <img src="./banner.png" alt="Mahesh Kotkar Banner" />
 </p>
+<hr style="margin-top:0; margin-bottom:0;">
+
 
 <h1 align="center">Hi 👋, I'm Mahesh Kotkar</h1>
 <h3 align="center">Aspiring Software Engineer | Java Developer | Full Stack Enthusiast</h3>
