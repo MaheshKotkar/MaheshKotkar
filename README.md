@@ -44,23 +44,18 @@
 
 ## 🎓 **Third-Year IT Student @ VIT Pune**
 
-<br/>
 
 ## 💡 **Passionate about Software Development, Machine Learning & Scalable Systems**
 
-<br/>
 
 ## 🚀 **Goal: Become an Excellent Software Engineer**
 
-<br/>
 
 ## 💼 **Internship Experience in Networking, Cybersecurity & Ethical Hacking**
 
-<br/>
 
 ## 🔥 **Building Real-World Projects & Preparing for Placements**
 
-<br/>
 
 </td>
 <td width="45%" align="center">
