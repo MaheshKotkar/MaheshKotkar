@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 <p align="center" style="margin-top:0; margin-bottom:0;">
   <img 
-    src="./banner.png" 
+    src="./bannerNew.png" 
     alt="Mahesh Kotkar Banner"
     style="display:block; margin:0 auto; padding:0;"
   />
