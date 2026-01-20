@@ -33,25 +33,40 @@
 
 ---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
+
 <div align="center">
   <table>
     <tr>
       <td width="55%" valign="middle">
+
 <br/>
-🎓 Third-Year IT Student @ VIT Pune
+
+## 🎓 **Third-Year IT Student @ VIT Pune**
+
 <br/>
-💡 Passionate about Software Development, Machine Learning, and Scalable Systems
+
+## 💡 **Passionate about Software Development, Machine Learning & Scalable Systems**
+
 <br/>
-🚀 Goal: To become an excellent Software Engineer
+
+## 🚀 **Goal: Become an Excellent Software Engineer**
+
 <br/>
-💼 Internship experience in Networking, Cybersecurity & Ethical Hacking
+
+## 💼 **Internship Experience in Networking, Cybersecurity & Ethical Hacking**
+
 <br/>
-🔥 Actively building real-world projects and preparing for placements & hackathons
+
+## 🔥 **Building Real-World Projects & Preparing for Placements**
+
 <br/>
+
 </td>
 <td width="45%" align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
+
 </td>
 </tr>
 </table>
