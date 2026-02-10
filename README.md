@@ -97,11 +97,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaheshKotkar&show_icons=true&theme=radical" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=MaheshKotkar&theme=radical" height="165"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshKotkar&layout=compact&theme=radical"/>
 </div>
 
